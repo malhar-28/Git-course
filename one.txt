@@ -1,3 +1,3 @@
 this is first file.
 add second line to commit it.
-add thrid line to commit it.
+add third line to commit it.
